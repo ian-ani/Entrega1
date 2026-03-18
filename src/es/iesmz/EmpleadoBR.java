@@ -1,8 +1,6 @@
 package es.iesmz;
 
 public class EmpleadoBR {
-    /* OTROS METODOS */
-
     public static float calculaSalarioBruto(TipoEmpleado tipo, float ventasMes, float horasExtra) {
         // Declarar variables de salario
         float salario;
